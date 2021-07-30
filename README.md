@@ -1,4 +1,4 @@
-# movie-tags-predictor
+# Movie Tags Predictor
 
 This use case is built to predict movie tags when user inputs plot synopsys. It helps to give an overview of the theme of movie. 
 To run this:
